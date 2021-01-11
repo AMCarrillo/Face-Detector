@@ -1,2 +1,2 @@
 # Face-Detector
-Face detector programmed with Python.
+Basic face detector programmed with Python.
